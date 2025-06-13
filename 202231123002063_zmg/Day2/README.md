@@ -1,0 +1,1 @@
+这是一个使用 PyTorch 框架实现的深度学习项目，用于在 CIFAR-10 数据集上训练多种预定义模型（如 ResNet18、GoogLeNet、MobileNetV2 和 MogA-Net）。项目提供了完整的数据预处理、模型加载、训练和测试流程。
